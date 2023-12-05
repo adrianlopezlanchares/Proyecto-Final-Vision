@@ -1,3 +1,7 @@
+### Proyecto de Adrián Lanchares y Pablo Díaz.
+
+
+
 # Proyecto-Final-Vision
 
 Antes de empezar con el proyecto, tuvimos que conectar desde un escritorio remoto a la Raspberry Pi4 para tener un lugar en el visualizar lo que la cámara mostraba, y desde una conexión remota ssh desde el Visual Studio Code para programar de forma más cómoda para nosotros. Tuvimos que configurar ciertas características de la cámara como habilitar el I2C, habilitar el VNC y deshabilitar legacy camera
@@ -23,4 +27,3 @@ igual forma que en el detector de patrones y sigue el contorno de la figura del 
 Todas las fotos son las utilizas para nuestra calibración, el .yaml se encuentra las matrices de la calibración y un vídeo de prueba.
 
 
-Proyecto de: Adrián Lanchares y Pablo Díaz.
